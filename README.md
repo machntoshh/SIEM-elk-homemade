@@ -83,6 +83,9 @@ event.dataset : "system.auth" AND message : "sudo"
 message : "useradd"
 ```
 
+![Captura do projeto](https://github.com/user-attachments/assets/e4e2d694-16c4-4ad8-b190-695cc8ec30e4)
+
+
 ---
 
 **Eric Marques Gomes | Análista de cibersegurança**  
