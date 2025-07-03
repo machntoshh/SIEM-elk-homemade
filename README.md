@@ -16,7 +16,7 @@ Objetivo: Mostrar habilidades práticas de coleta, armazenamento, análise e vis
 | Filebeat        | Coletor de logs de sistema               |
 
 
-## ⚙️ Instalação do SIEM (comandos principais)
+## Instalação do SIEM (comandos principais)
 ### Feitas com pesquisas na net já que não possuia o conhecimento, comandos em ordem de stack
 
 ```bash
@@ -66,7 +66,7 @@ sudo ./siem_teste_eventos.sh
 
 > Após executar o script, os eventos serão enviados ao Filebeat serão visualizados no Kibana web na aba "Discover".
 
-## 🔍 Consultas no Kibana (exemplos)
+## Consultas feitas no Kibana web
 
 **Login inválido:**
 ```kibana
